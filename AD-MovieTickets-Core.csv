@@ -1,0 +1,30 @@
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Average Response Time total;9
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Call per minute periodo;1
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovies;Average Response Time total;102
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovies;Call per Minute por minuto;41
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovies;Call per minute periodo;205
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/AddToOrder;Average Response Time total;132
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/AddToOrder;Call per Minute por minuto;13
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/AddToOrder;Call per minute periodo;63
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/CheckoutAsync;Average Response Time total;123
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/CheckoutAsync;Call per Minute por minuto;10
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/CheckoutAsync;Call per minute periodo;48
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrders;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrders;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrders;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovie;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovie;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Inventory/GetMovie;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/iisintegration;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrder;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrder;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-MovieTickets-Core;/Orders/GetOrder;Call per minute periodo;0

@@ -1,0 +1,69 @@
+2018-04-24 14:56:46.378102;5;AD-Travel;Logout;Average Response Time total;100
+2018-04-24 14:56:46.378102;5;AD-Travel;Logout;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-Travel;Logout;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-Travel;Login;Average Response Time total;151
+2018-04-24 14:56:46.378102;5;AD-Travel;Login;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-Travel;Login;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-Travel;Offer.Search;Average Response Time total;152
+2018-04-24 14:56:46.378102;5;AD-Travel;Offer.Search;Call per Minute por minuto;21
+2018-04-24 14:56:46.378102;5;AD-Travel;Offer.Search;Call per minute periodo;103
+2018-04-24 14:56:46.378102;5;AD-Travel;Home;Average Response Time total;750
+2018-04-24 14:56:46.378102;5;AD-Travel;Home;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-Travel;Home;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-Travel;ConfirmOffer;Average Response Time total;2
+2018-04-24 14:56:46.378102;5;AD-Travel;ConfirmOffer;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-Travel;ConfirmOffer;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-Travel;SubmitPayment;Average Response Time total;222
+2018-04-24 14:56:46.378102;5;AD-Travel;SubmitPayment;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-Travel;SubmitPayment;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-Travel;MyAccount;Average Response Time total;151
+2018-04-24 14:56:46.378102;5;AD-Travel;MyAccount;Call per Minute por minuto;21
+2018-04-24 14:56:46.378102;5;AD-Travel;MyAccount;Call per minute periodo;103
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Brand;Average Response Time total;1121
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Brand;Call per Minute por minuto;29
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Brand;Call per minute periodo;147
+2018-04-24 14:56:46.378102;5;AD-Travel;LegacyTravel;Average Response Time total;9
+2018-04-24 14:56:46.378102;5;AD-Travel;LegacyTravel;Call per Minute por minuto;30
+2018-04-24 14:56:46.378102;5;AD-Travel;LegacyTravel;Call per minute periodo;149
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Location;Average Response Time total;5676
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Location;Call per Minute por minuto;29
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Location;Call per minute periodo;145
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Class;Average Response Time total;1310
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Class;Call per Minute por minuto;29
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Search.Class;Call per minute periodo;147
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Booking;Average Response Time total;492
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Booking;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;AD-Travel;Travel.Booking;Call per minute periodo;83
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/AvailabilityService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/AvailabilityService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/AvailabilityService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/OfferSearch/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/SubmitPayment/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/SubmitPayment/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/SubmitPayment/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/WebTier/Login;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/WebTier/Login;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/WebTier/Login;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/brand;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/brand;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/brand;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./api/v1/reservation/book;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./api/v1/reservation/book;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./api/v1/reservation/book;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/location;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/location;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/location;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/class;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/class;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;ApiGateway./v1/property/search/class;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/OfferService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/OfferService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;/ConfirmOffer/OfferService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-Travel;JMSEntryPoint:AvailabilityQ;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-Travel;JMSEntryPoint:AvailabilityQ;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-Travel;JMSEntryPoint:AvailabilityQ;Call per minute periodo;0

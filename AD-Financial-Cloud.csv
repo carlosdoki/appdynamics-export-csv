@@ -1,0 +1,9 @@
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;processTrade-cloud;Average Response Time total;227
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;processTrade-cloud;Call per Minute por minuto;8
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;processTrade-cloud;Call per minute periodo;42
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;researchStock-cloud;Average Response Time total;230
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;researchStock-cloud;Call per Minute por minuto;4
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;researchStock-cloud;Call per minute periodo;19
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;getStockQuote-cloud;Average Response Time total;233
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;getStockQuote-cloud;Call per Minute por minuto;9
+2018-04-24 14:56:46.378102;5;AD-Financial-Cloud;getStockQuote-cloud;Call per minute periodo;46

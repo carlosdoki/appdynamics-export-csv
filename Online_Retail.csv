@@ -1,0 +1,384 @@
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : popularAction;Average Response Time total;72
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : popularAction;Call per Minute por minuto;58
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : popularAction;Call per minute periodo;290
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\DefaultController : indexAction;Average Response Time total;53
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\DefaultController : indexAction;Call per Minute por minuto;88
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\DefaultController : indexAction;Call per minute periodo;440
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : viewAction;Average Response Time total;83
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : viewAction;Call per Minute por minuto;65
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : viewAction;Call per minute periodo;327
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : addToCartAction;Average Response Time total;88
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : addToCartAction;Call per Minute por minuto;31
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : addToCartAction;Call per minute periodo;155
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : checkoutAction;Average Response Time total;911
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : checkoutAction;Call per Minute por minuto;15
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : checkoutAction;Call per minute periodo;76
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : searchAction;Average Response Time total;282
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : searchAction;Call per Minute por minuto;80
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\ProductController : searchAction;Call per minute periodo;401
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Average Response Time total;738
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Call per minute periodo;86
+2018-04-24 14:56:46.378102;5;Online_Retail;/checkout;Average Response Time total;1432
+2018-04-24 14:56:46.378102;5;Online_Retail;/checkout;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/checkout;Call per minute periodo;87
+2018-04-24 14:56:46.378102;5;Online_Retail;/addToCart;Average Response Time total;686
+2018-04-24 14:56:46.378102;5;Online_Retail;/addToCart;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/addToCart;Call per minute periodo;86
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart-removeItem;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart-removeItem;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart-removeItem;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart;Average Response Time total;1751
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCart;Call per minute periodo;86
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCatalog;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCatalog;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewCatalog;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\LoginController : viewAction;Average Response Time total;53
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\LoginController : viewAction;Call per Minute por minuto;90
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\LoginController : viewAction;Call per minute periodo;449
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : indexAction;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : indexAction;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;Bundy\ShoesBundle\Controller\CartController : indexAction;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;Symfony\Bundle\TwigBundle\Controller\ExceptionController : showAction;Average Response Time total;53
+2018-04-24 14:56:46.378102;5;Online_Retail;Symfony\Bundle\TwigBundle\Controller\ExceptionController : showAction;Call per Minute por minuto;2
+2018-04-24 14:56:46.378102;5;Online_Retail;Symfony\Bundle\TwigBundle\Controller\ExceptionController : showAction;Call per minute periodo;11
+2018-04-24 14:56:46.378102;5;Online_Retail;/check_proxy;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/check_proxy;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/check_proxy;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/echo.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/echo.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/echo.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/msx.mail.ru:25;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/msx.mail.ru:25;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/msx.mail.ru:25;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:587;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:587;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:587;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:465;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:465;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/smtp.gmail.com:465;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mxs.mail.ru:25;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mxs.mail.ru:25;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mxs.mail.ru:25;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/inventory;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/inventory;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/inventory;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/order;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/order;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/order;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/search;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/search;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/BundyBackend/search;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/proxyjudge.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/proxyjudge.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/proxyjudge.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;TEST;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;TEST;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;TEST;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/info.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/info.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/info.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/script;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/script;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/script;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hudson/script;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hudson/script;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hudson/script;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager/main.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager/main.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager/main.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sqlite/main.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sqlite/main.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sqlite/main.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ncsi.txt;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ncsi.txt;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ncsi.txt;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/dbadmin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/dbadmin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/dbadmin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager-1.2.4/main.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager-1.2.4/main.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SQLiteManager-1.2.4/main.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mysql;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mysql;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/mysql;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/myadmin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/myadmin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/myadmin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/openserver/phpmyadmin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/openserver/phpmyadmin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/openserver/phpmyadmin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.3;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.3;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.3;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/admin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/admin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/admin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/pma;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/pma;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/pma;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpmyadmin2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpmyadmin2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpmyadmin2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/test/sqlite;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/test/sqlite;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/test/sqlite;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/php-my-admin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/php-my-admin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/php-my-admin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/agSearch/SQlite;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/agSearch/SQlite;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/agSearch/SQlite;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.6;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.6;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.2.6;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/main.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/main.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/main.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc3;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc3;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc3;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-alpha;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl3;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl3;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl3;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7-pl1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7-pl1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7-pl1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-pl2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-rc2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-rc1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.4;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.4;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.4;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0-beta1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.0;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-pl1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-pl1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.5-pl1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-rc1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-rc1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-rc1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.6-rc1;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.5.7;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl3;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl3;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl3;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/phpMyAdmin-2.6.1-pl2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v1/search;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v1/search;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v1/search;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2/_catalog;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2/_catalog;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2/_catalog;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.linode.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.linode.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.linode.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/utrc;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/utrc;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/utrc;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/login;Average Response Time total;753
+2018-04-24 14:56:46.378102;5;Online_Retail;/login;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/login;Call per minute periodo;87
+2018-04-24 14:56:46.378102;5;Online_Retail;/console;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/console;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/console;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/webman/login.cgi;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/webman/login.cgi;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/webman/login.cgi;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.google.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.google.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.google.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/MainForm.wgx;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/MainForm.wgx;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/MainForm.wgx;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ip4.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ip4.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ip4.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/v2;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/showSignUp;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/showSignUp;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/showSignUp;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/JavaApp;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/JavaApp;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/JavaApp;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/favicon.ico;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/favicon.ico;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/favicon.ico;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/91.233.116.5:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/91.233.116.5:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/91.233.116.5:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/t1.proxy-checks.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/t1.proxy-checks.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/t1.proxy-checks.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wordpress/wp-login.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wordpress/wp-login.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wordpress/wp-login.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp-login.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp-login.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp-login.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp/wp-login.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp/wp-login.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/wp/wp-login.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/cn.bing.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/cn.bing.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/cn.bing.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.voanews.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.voanews.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.voanews.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/boxun.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/boxun.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/boxun.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.baidu.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/admin;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/admin;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/admin;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/english;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/english;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/english;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nice ports,/Trinity.txt.bak;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nice ports,/Trinity.txt.bak;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nice ports,/Trinity.txt.bak;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.server110.com:443;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.server110.com:443;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/www.server110.com:443;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SiteMap.xml;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SiteMap.xml;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/SiteMap.xml;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/Robots.txt;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/Robots.txt;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/Robots.txt;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/138.197.223.235:43;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/138.197.223.235:43;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/138.197.223.235:43;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/shell;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/shell;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/shell;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hedwig.cgi;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hedwig.cgi;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/hedwig.cgi;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/system.ini;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/system.ini;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/system.ini;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/command.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/command.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/command.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/setup.cgi;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/setup.cgi;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/setup.cgi;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/apply.cgi;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/apply.cgi;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/apply.cgi;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/upgrade_handle.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/upgrade_handle.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/upgrade_handle.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/board.cgi;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/board.cgi;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/board.cgi;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/manager/html;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/VAD_Deploy.aspx;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/VAD_Deploy.aspx;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/VAD_Deploy.aspx;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/ab_ab;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/ab_ab;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/ivr/ab_ab;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sdk;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sdk;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/sdk;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/evox/about;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/evox/about;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/evox/about;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nmaplowercheck1512470721;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nmaplowercheck1512470721;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/nmaplowercheck1512470721;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings/index.php;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings/index.php;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/recordings/index.php;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/agent;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/agent;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/a2billing/agent;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Average Response Time total;873
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Call per Minute por minuto;18
+2018-04-24 14:56:46.378102;5;Online_Retail;/signUp;Call per minute periodo;89
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewOrder;Average Response Time total;874
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewOrder;Call per Minute por minuto;17
+2018-04-24 14:56:46.378102;5;Online_Retail;/viewOrder;Call per minute periodo;87
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;Online_Retail;/HNAP1;Call per minute periodo;0

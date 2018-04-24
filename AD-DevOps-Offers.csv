@@ -1,0 +1,42 @@
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;JMSEntryPoint:AvailabilityQ;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;JMSEntryPoint:AvailabilityQ;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;JMSEntryPoint:AvailabilityQ;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/AvailabilityService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/AvailabilityService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/AvailabilityService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/0;Average Response Time total;223
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/0;Call per minute periodo;101
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/0;Average Response Time total;2
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/0;Call per minute periodo;101
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Home/0;Average Response Time total;751
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Home/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Home/0;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/0;Average Response Time total;152
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/0;Call per Minute por minuto;21
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/0;Call per minute periodo;103
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Logout/0;Average Response Time total;100
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Logout/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Logout/0;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/MyAccount/0;Average Response Time total;151
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/MyAccount/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/MyAccount/0;Call per minute periodo;102
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Login/0;Average Response Time total;151
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Login/0;Call per Minute por minuto;20
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/Login/0;Call per minute periodo;101
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/WebTier/Login;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/WebTier/Login;Call per Minute por minuto;4
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/WebTier/Login;Call per minute periodo;22
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/SubmitPayment/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/CoreServices;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/CoreServices;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/OfferSearch/CoreServices;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/OfferService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/OfferService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps-Offers;/ConfirmOffer/OfferService;Call per minute periodo;0

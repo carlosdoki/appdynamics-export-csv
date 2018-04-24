@@ -1,0 +1,33 @@
+2018-04-24 14:56:46.378102;5;AD-DevOps;addcardService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;addcardService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;addcardService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;checkoutService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;checkoutService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;checkoutService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;authenticateService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;authenticateService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;authenticateService;Call per minute periodo;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/addcard;Average Response Time total;3578
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/addcard;Call per Minute por minuto;6
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/addcard;Call per minute periodo;28
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/offers;Average Response Time total;16
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/offers;Call per Minute por minuto;4
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/offers;Call per minute periodo;22
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountHistory;Average Response Time total;3509
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountHistory;Call per Minute por minuto;8
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountHistory;Call per minute periodo;38
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountLookup;Average Response Time total;5527
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountLookup;Call per Minute por minuto;21
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/accountLookup;Call per minute periodo;105
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/authenticate;Average Response Time total;1502
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/authenticate;Call per Minute por minuto;26
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/authenticate;Call per minute periodo;132
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/login-page;Average Response Time total;1
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/login-page;Call per Minute por minuto;40
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/login-page;Call per minute periodo;200
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/checkout;Average Response Time total;3858
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/checkout;Call per Minute por minuto;2
+2018-04-24 14:56:46.378102;5;AD-DevOps;/devops-payments-web/checkout;Call per minute periodo;8
+2018-04-24 14:56:46.378102;5;AD-DevOps;accountService;Average Response Time total;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;accountService;Call per Minute por minuto;0
+2018-04-24 14:56:46.378102;5;AD-DevOps;accountService;Call per minute periodo;0
