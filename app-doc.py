@@ -91,7 +91,7 @@ def main():
         process()
         print(datetime.datetime.now())
     except:
-        print 'dashboard.py <http://host> <port> <user> <password> <account> <periodo>'
+        print 'app-doc.py <http://host> <port> <user> <password> <account> <periodo>'
         sys.exit(2)
 
 if __name__ == '__main__':
