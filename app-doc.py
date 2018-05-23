@@ -77,20 +77,19 @@ def main():
     global intervalo
     global cabecalho 
 
-    #try:
-    host = sys.argv[1] 
-    port = sys.argv[2]
-    user = sys.argv[3]
-    password = sys.argv[4]
-    account = sys.argv[5]
-    intervalo = sys.argv[6]
+    if len(sys.argv) > 5:
+        host = sys.argv[1] 
+        port = sys.argv[2]
+        user = sys.argv[3]
+        password = sys.argv[4]
+        account = sys.argv[5]
+        intervalo = sys.argv[6]
 
-    try:
         cabecalho = '{};{}'.format(datetime.datetime.now(), intervalo)
         print(datetime.datetime.now())
         process()
         print(datetime.datetime.now())
-    except:
+     else:
         print 'app-doc.py <http://host> <port> <user> <password> <account> <periodo>'
         sys.exit(2)
 
